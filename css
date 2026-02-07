@@ -1,0 +1,37 @@
+/*{
+    margin: 0%;
+    padding:0%;
+}*/
+
+h1{
+    color: rgb(227, 127, 255);
+}
+
+#one{
+    color: blueviolet;
+    background-color: antiquewhite;
+}
+#link{
+    color: coral;
+}
+#scroll{
+    font-style: initial;
+    color:rgb(247, 87, 162);
+}
+a{
+    margin-right: 150px;
+   text-align:center;
+   color: azure;
+}
+#button1{
+    background-color: chocolate;
+}
+
+div{
+    padding: 15px;
+    background-color:black;
+    
+    
+    border-radius:1%;
+    
+}
